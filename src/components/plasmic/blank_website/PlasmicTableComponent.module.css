@@ -1,0 +1,115 @@
+.table:global(.__wab_instance) {
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+
+.ant-table {
+  background: transparent !important;
+}
+
+.ant-table-thead > tr > th {
+  background: transparent !important;
+  color: blue !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.ant-table-tbody > tr > td {
+  background: transparent !important;
+  color: gold !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.ant-table-bordered .ant-table-container {
+  border: none !important;
+}
+
+.custom-row:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+
+
+.table_container {
+  width: 50%;
+  background: transparent;
+}
+
+/* Custom Table */
+.custom_table {
+  width: 100%;
+  border-collapse: collapse;
+  /* background: rgba(255, 255, 255, 0.05);  */
+}
+
+/* Table Header */
+.custom_table .thead {
+  /* background: transparent; */
+  background: rgba(255, 255, 255, 0.05); 
+
+}
+
+.custom-table .tbody .tr {
+  height: 20px; /* Set row height to 20px */
+}
+
+.custom_table .th {
+  color: rgb(0, 132, 157);
+  font-size: 16px;
+  padding: 12px;
+  text-align: left;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Table Body */
+.custom_table .td {
+  color: gold;
+  padding: 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Table Row Hover Effect */
+.custom_table .tbody .tr:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.custom_table .tbody .tr {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.custom_table .tbody .tt {
+  background: transparent;
+}
+
+.custom_table .tdt {
+  color: white;
+  padding: 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.custom_table .tdr {
+  color: rgb(250, 101, 118);
+  padding: 6px;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.custom_table .tdg {
+  color: rgb(0, 255, 0);
+  font-weight: bold;
+  padding: 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.svg{
+  width  : 90%;
+  /* height : 120px; */
+}
+
+.text{
+  fill            : green;
+  stroke          : rgb(255, 255, 255);
+  stroke-width    : 0.3px;
+  stroke-linejoin : round;
+}
+

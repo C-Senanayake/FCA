@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:data="ApexChartsNS" version="1.1" class="apexcharts-svg" viewBox="0 0 2400 546">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:2400px;height:546px">
+      <div class="apexcharts-canvas apexchartschart2 apexcharts-theme-" style="width:2400px;height:546px">
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="apexcharts-svg apexcharts-zoomable hovering-pan" style="background:0 0" width="2400" height="546">
+          <g class="apexcharts-yaxis" rel="0">
+            <g class="apexcharts-yaxis-texts-g">
+              <text x="20" y="33.667" text-anchor="end" dominant-baseline="auto" font-size="11" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-yaxis-label" transform="translate(16.868)">
+                <tspan>80</tspan>
+              </text>
+              <text x="20" y="154.792" text-anchor="end" dominant-baseline="auto" font-size="11" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-yaxis-label" transform="translate(16.868)">
+                <tspan>60</tspan>
+              </text>
+              <text x="20" y="275.917" text-anchor="end" dominant-baseline="auto" font-size="11" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-yaxis-label" transform="translate(16.868)">
+                <tspan>40</tspan>
+              </text>
+              <text x="20" y="397.042" text-anchor="end" dominant-baseline="auto" font-size="11" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-yaxis-label" transform="translate(16.868)">
+                <tspan>20</tspan>
+              </text>
+              <text x="20" y="518.167" text-anchor="end" dominant-baseline="auto" font-size="11" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-yaxis-label" transform="translate(16.868)">
+                <tspan>0</tspan>
+              </text>
+            </g>
+            <g class="apexcharts-yaxis-title">
+              <text x="33.415" y="272.25" text-anchor="end" dominant-baseline="auto" font-size="11" font-family="Helvetica,Arial,sans-serif" font-weight="900" fill="gold" class="apexcharts-text apexcharts-yaxis-title-text" transform="rotate(-90 .054 259.441)">
+                Percentage %
+              </text>
+            </g>
+          </g>
+          <g class="apexcharts-inner apexcharts-graphical" transform="translate(46.868 30)">
+            <defs>
+              <clipPath id="uhALXdtYCwiLa">
+                <rect width="2349.132" height="490.5" x="-3" y="-3" rx="0" ry="0" opacity="1" stroke-width="0" stroke="none" stroke-dasharray="0" fill="#fff"/>
+              </clipPath>
+            </defs>
+            <path stroke="#b6b6b6" stroke-dasharray="3" stroke-linecap="butt" class="apexcharts-xcrosshairs" x="2330.917" y="0" width="1" height="484.5" fill="#b1b9c4" filter="none" fill-opacity=".9" stroke-width="1" d="M2330.917 0v484.5"/>
+            <path stroke="#e0e0e0" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-xaxis-tick" d="M351.47 484.5v6m351.47-6v6m351.47-6v6m351.469-6v6m351.47-6v6m351.47-6v6"/>
+            <g class="apexcharts-grid">
+              <g class="apexcharts-gridlines-horizontal">
+                <path stroke="#e0e0e0" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline" d="M0 121.125h2343.132M0 242.25h2343.132M0 363.375h2343.132"/>
+              </g>
+              <path stroke="transparent" stroke-dasharray="0" stroke-linecap="butt" d="M0 484.5h2343.132M0 1v483.5"/>
+            </g>
+            <g class="apexcharts-grid-borders">
+              <path stroke="#e0e0e0" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline" d="M0 0h2343.132M0 484.5h2343.132"/>
+              <path stroke="#e0e0e0" stroke-dasharray="0" stroke-width="1" stroke-linecap="butt" d="M0 484.5h2343.132"/>
+            </g>
+            <g class="apexcharts-line-series apexcharts-plot-series">
+              <g class="apexcharts-series" zIndex="0" seriesName="Cu" data:longestSeries="true" rel="1" data:realIndex="0">
+                <path d="M0 175.631l11.716 151.407 11.715-24.226 11.716 72.675L46.863 242.25 58.578 36.337 70.294 66.62l11.716 48.45L93.725 290.7l11.716-175.631 11.716 187.743 11.715 36.338 11.716-260.419 11.716 133.238 11.715-127.181 11.716 115.068 11.716-90.844 11.715 272.532 11.716-211.969 11.716-109.012 11.715 42.393 11.716 127.181 11.716-24.224 11.715 54.506 11.716-151.406 11.716 54.506 11.715 48.45 11.716-151.406 11.716 24.225 11.715 151.406 11.716-115.069L363.186 290.7l11.715-54.506 11.716 169.575 11.715-84.788 11.716-236.193 11.716 254.362 11.715-230.137 11.716 78.73L456.911 290.7l11.715 6.056 11.716-163.518 11.716 96.9 11.715 24.225 11.716 169.575 11.716-54.507L538.92 193.8l11.716 163.519 11.716-290.7 11.715 290.7 11.716-230.138 11.716 42.394L609.214 48.45l11.716 6.056 11.716 260.419L644.36 54.506l11.716 254.363 11.716 84.787 11.715-90.844 11.716 78.732L702.94 36.337l11.715 369.432 11.716-199.856 11.716 36.337 11.715 54.506 11.716-84.787 11.716-139.294 11.715 78.731 11.716-30.281 11.716-42.394 11.715 151.406 11.716 187.744 11.716-12.112 11.715 18.168 11.716-272.53 11.716-6.057L890.39 290.7l11.716 30.281 11.716 30.281 11.715 72.675 11.716-308.868 11.716 308.868 11.715-90.843L972.4 157.462l11.716-96.9 11.715 109.013 11.716 205.913 11.716-333.094 11.715 139.293 11.716-24.225 11.716-48.45 11.715 175.632 11.716-102.957 11.716 169.575 11.715-181.687 11.716-48.45 11.716 224.081 11.715-211.969 11.716 36.338 11.716 175.631 11.715-157.462 11.716 236.194 11.715-151.407 11.716-66.618 11.716-145.35 11.715-6.057 11.716 314.925 11.716-115.068 11.715-78.732 11.716 18.169 11.716 133.238 11.715-242.25 11.716 60.562 11.716 36.338 11.715 36.337 11.716 157.463 11.716-284.644 11.715-42.394 11.716 224.081 11.716-84.787 11.715-18.169 11.716 248.306 11.716-96.9 11.715-84.787 11.716-30.281 11.716-78.732 11.715 218.025 11.716 30.281 11.716-48.45 11.715-36.337 11.716 48.45 11.716 72.675 11.715-24.225 11.716-357.319 11.716 351.263 11.715-24.225 11.716-169.575 11.716-127.181 11.715 84.787 11.716-72.675h11.716l11.715 272.531 11.716-278.587 11.716 60.562 11.715-24.225 11.716 60.563 11.716-121.125 11.715 218.025 11.716-187.744 11.716 327.037 11.715-84.787 11.716-24.225 11.716-139.294 11.715 260.419 11.716-302.813 11.716 236.194 11.715-66.619 11.716-187.743 11.716 96.9 11.715 72.675 11.716-199.856 11.716-12.113 11.715 369.431 11.716-387.6 11.716 369.431 11.715-205.912 11.716-36.338 11.715-127.18 11.716 248.305h11.716l11.715-157.462 11.716 224.081 11.716-296.756 11.715 205.913 11.716 42.393 11.716-254.362 11.715 205.912 11.716 12.113 11.716-193.8 11.715 284.644 11.716 6.056 11.716-266.475 11.715 115.069 11.716 121.125 11.716-199.857 11.715 66.619 11.716-24.225L2190.83 290.7l11.715-84.787 11.716 12.112 11.716-48.45 11.715 54.506 11.716-24.225 11.716-6.056 11.715 181.688 11.716-175.632 11.716 36.338 11.715 187.744 11.716-145.35 11.716-84.788 11.715 187.744" fill="none" fill-opacity="1" stroke="rgba(255,215,0,1)" stroke-opacity="1" stroke-linecap="butt" stroke-width="2" stroke-dasharray="0" class="apexcharts-line" index="0" clip-path="url(#uhALXdtYCwiLa)" pathTo="M 0 175.63125000000002 L 11.715661659240723 327.0375 L 23.431323318481446 302.8125 L 35.14698497772217 375.4875 L 46.86264663696289 242.25 L 58.578308296203616 36.33749999999998 L 70.29396995544434 66.61874999999998 L 82.00963161468506 115.06875000000002 L 93.72529327392579 290.7 L 105.44095493316651 115.06875000000002 L 117.15661659240723 302.8125 L 128.87227825164794 339.15 L 140.58793991088868 78.73124999999999 L 152.3036015701294 211.96875 L 164.01926322937013 84.78750000000002 L 175.73492488861083 199.85625 L 187.45058654785157 109.01249999999999 L 199.16624820709228 381.54375 L 210.88190986633302 169.575 L 222.59757152557373 60.5625 L 234.31323318481446 102.95625000000001 L 246.02889484405517 230.1375 L 257.7445565032959 205.91250000000002 L 269.46021816253665 260.41875 L 281.17587982177736 109.01249999999999 L 292.89154148101807 163.51875 L 304.6072031402588 211.96875 L 316.32286479949954 60.5625 L 328.03852645874025 84.78750000000002 L 339.75418811798096 236.19375 L 351.46984977722167 121.125 L 363.18551143646243 290.7 L 374.90117309570314 236.19375 L 386.61683475494385 405.76875 L 398.33249641418456 320.98125 L 410.0481580734253 84.78750000000002 L 421.76381973266604 339.15 L 433.47948139190675 109.01249999999999 L 445.19514305114745 187.74374999999998 L 456.9108047103882 290.7 L 468.62646636962893 296.75625 L 480.34212802886964 133.2375 L 492.05778968811035 230.1375 L 503.7734513473511 254.3625 L 515.4891130065918 423.9375 L 527.2047746658326 369.43125 L 538.9204363250733 193.8 L 550.636097984314 357.31875 L 562.3517596435547 66.61874999999998 L 574.0674213027954 357.31875 L 585.7830829620361 127.18124999999998 L 597.4987446212768 169.575 L 609.2144062805176 48.44999999999999 L 620.9300679397584 54.50625000000002 L 632.6457295989991 314.925 L 644.3613912582398 54.50625000000002 L 656.0770529174805 308.86875 L 667.7927145767212 393.65625 L 679.5083762359619 302.8125 L 691.2240378952026 381.54375 L 702.9396995544433 36.33749999999998 L 714.6553612136842 405.76875 L 726.3710228729249 205.91250000000002 L 738.0866845321656 242.25 L 749.8023461914063 296.75625 L 761.518007850647 211.96875 L 773.2336695098877 72.67500000000001 L 784.9493311691284 151.40625 L 796.6649928283691 121.125 L 808.38065448761 78.73124999999999 L 820.0963161468507 230.1375 L 831.8119778060914 417.88125 L 843.5276394653321 405.76875 L 855.2433011245728 423.9375 L 866.9589627838135 151.40625 L 878.6746244430542 145.35000000000002 L 890.3902861022949 290.7 L 902.1059477615357 320.98125 L 913.8216094207764 351.2625 L 925.5372710800171 423.9375 L 937.2529327392579 115.06875000000002 L 948.9685943984986 423.9375 L 960.6842560577393 333.09375 L 972.39991771698 157.46249999999998 L 984.1155793762207 60.5625 L 995.8312410354615 169.575 L 1007.5469026947022 375.4875 L 1019.2625643539429 42.39375000000001 L 1030.9782260131835 181.6875 L 1042.6938876724244 157.46249999999998 L 1054.4095493316652 109.01249999999999 L 1066.1252109909058 284.64375 L 1077.8408726501466 181.6875 L 1089.5565343093872 351.2625 L 1101.272195968628 169.575 L 1112.9878576278686 121.125 L 1124.7035192871094 345.20625 L 1136.4191809463503 133.2375 L 1148.1348426055908 169.575 L 1159.8505042648317 345.20625 L 1171.5661659240723 187.74374999999998 L 1183.281827583313 423.9375 L 1194.9974892425537 272.53125 L 1206.7131509017945 205.91250000000002 L 1218.428812561035 60.5625 L 1230.144474220276 54.50625000000002 L 1241.8601358795167 369.43125 L 1253.5757975387573 254.3625 L 1265.2914591979982 175.63125000000002 L 1277.0071208572388 193.8 L 1288.7227825164796 327.0375 L 1300.4384441757202 84.78750000000002 L 1312.154105834961 145.35000000000002 L 1323.8697674942018 181.6875 L 1335.5854291534424 218.02499999999998 L 1347.3010908126832 375.4875 L 1359.0167524719238 90.84375 L 1370.7324141311647 48.44999999999999 L 1382.4480757904053 272.53125 L 1394.163737449646 187.74374999999998 L 1405.8793991088867 169.575 L 1417.5950607681275 417.88125 L 1429.3107224273683 320.98125 L 1441.026384086609 236.19375 L 1452.7420457458497 205.91250000000002 L 1464.4577074050903 127.18124999999998 L 1476.1733690643312 345.20625 L 1487.8890307235718 375.4875 L 1499.6046923828126 327.0375 L 1511.3203540420534 290.7 L 1523.036015701294 339.15 L 1534.7516773605348 411.825 L 1546.4673390197754 387.6 L 1558.1830006790162 30.28125 L 1569.8986623382568 381.54375 L 1581.6143239974976 357.31875 L 1593.3299856567382 187.74374999999998 L 1605.045647315979 60.5625 L 1616.76130897522 145.35000000000002 L 1628.4769706344605 72.67500000000001 L 1640.1926322937013 72.67500000000001 L 1651.908293952942 345.20625 L 1663.6239556121827 66.61874999999998 L 1675.3396172714233 127.18124999999998 L 1687.0552789306641 102.95625000000001 L 1698.770940589905 163.51875 L 1710.4866022491456 42.39375000000001 L 1722.2022639083864 260.41875 L 1733.917925567627 72.67500000000001 L 1745.6335872268678 399.7125 L 1757.3492488861084 314.925 L 1769.0649105453492 290.7 L 1780.7805722045898 151.40625 L 1792.4962338638306 411.825 L 1804.2118955230715 109.01249999999999 L 1815.927557182312 345.20625 L 1827.6432188415529 278.5875 L 1839.3588805007935 90.84375 L 1851.0745421600343 187.74374999999998 L 1862.790203819275 260.41875 L 1874.5058654785157 60.5625 L 1886.2215271377565 48.44999999999999 L 1897.9371887969971 417.88125 L 1909.652850456238 30.28125 L 1921.3685121154786 399.7125 L 1933.0841737747194 193.8 L 1944.79983543396 157.46249999999998 L 1956.5154970932008 30.28125 L 1968.2311587524414 278.5875 L 1979.9468204116822 278.5875 L 1991.662482070923 121.125 L 2003.3781437301636 345.20625 L 2015.0938053894045 48.44999999999999 L 2026.809467048645 254.3625 L 2038.5251287078859 296.75625 L 2050.2407903671265 42.39375000000001 L 2061.956452026367 248.30625 L 2073.672113685608 260.41875 L 2085.3877753448487 66.61874999999998 L 2097.1034370040893 351.2625 L 2108.8190986633304 357.31875 L 2120.534760322571 90.84375 L 2132.2504219818115 205.91250000000002 L 2143.966083641052 327.0375 L 2155.681745300293 127.18124999999998 L 2167.397406959534 193.8 L 2179.1130686187744 169.575 L 2190.8287302780154 290.7 L 2202.544391937256 205.91250000000002 L 2214.2600535964966 218.02499999999998 L 2225.975715255737 169.575 L 2237.6913769149783 224.08125 L 2249.407038574219 199.85625 L 2261.1227002334595 193.8 L 2272.8383618927005 375.4875 L 2284.554023551941 199.85625 L 2296.2696852111817 236.19375 L 2307.9853468704223 423.9375 L 2319.7010085296633 278.5875 L 2331.416670188904 193.8 L 2343.1323318481445 381.54375" pathFrom="M 0 175.63125000000002 L 11.715661659240723 327.0375 L 23.431323318481446 302.8125 L 35.14698497772217 375.4875 L 46.86264663696289 242.25 L 58.578308296203616 36.33749999999998 L 70.29396995544434 66.61874999999998 L 82.00963161468506 115.06875000000002 L 93.72529327392579 290.7 L 105.44095493316651 115.06875000000002 L 117.15661659240723 302.8125 L 128.87227825164794 339.15 L 140.58793991088868 78.73124999999999 L 152.3036015701294 211.96875 L 164.01926322937013 84.78750000000002 L 175.73492488861083 199.85625 L 187.45058654785157 109.01249999999999 L 199.16624820709228 381.54375 L 210.88190986633302 169.575 L 222.59757152557373 60.5625 L 234.31323318481446 102.95625000000001 L 246.02889484405517 230.1375 L 257.7445565032959 205.91250000000002 L 269.46021816253665 260.41875 L 281.17587982177736 109.01249999999999 L 292.89154148101807 163.51875 L 304.6072031402588 211.96875 L 316.32286479949954 60.5625 L 328.03852645874025 84.78750000000002 L 339.75418811798096 236.19375 L 351.46984977722167 121.125 L 363.18551143646243 290.7 L 374.90117309570314 236.19375 L 386.61683475494385 405.76875 L 398.33249641418456 320.98125 L 410.0481580734253 84.78750000000002 L 421.76381973266604 339.15 L 433.47948139190675 109.01249999999999 L 445.19514305114745 187.74374999999998 L 456.9108047103882 290.7 L 468.62646636962893 296.75625 L 480.34212802886964 133.2375 L 492.05778968811035 230.1375 L 503.7734513473511 254.3625 L 515.4891130065918 423.9375 L 527.2047746658326 369.43125 L 538.9204363250733 193.8 L 550.636097984314 357.31875 L 562.3517596435547 66.61874999999998 L 574.0674213027954 357.31875 L 585.7830829620361 127.18124999999998 L 597.4987446212768 169.575 L 609.2144062805176 48.44999999999999 L 620.9300679397584 54.50625000000002 L 632.6457295989991 314.925 L 644.3613912582398 54.50625000000002 L 656.0770529174805 308.86875 L 667.7927145767212 393.65625 L 679.5083762359619 302.8125 L 691.2240378952026 381.54375 L 702.9396995544433 36.33749999999998 L 714.6553612136842 405.76875 L 726.3710228729249 205.91250000000002 L 738.0866845321656 242.25 L 749.8023461914063 296.75625 L 761.518007850647 211.96875 L 773.2336695098877 72.67500000000001 L 784.9493311691284 151.40625 L 796.6649928283691 121.125 L 808.38065448761 78.73124999999999 L 820.0963161468507 230.1375 L 831.8119778060914 417.88125 L 843.5276394653321 405.76875 L 855.2433011245728 423.9375 L 866.9589627838135 151.40625 L 878.6746244430542 145.35000000000002 L 890.3902861022949 290.7 L 902.1059477615357 320.98125 L 913.8216094207764 351.2625 L 925.5372710800171 423.9375 L 937.2529327392579 115.06875000000002 L 948.9685943984986 423.9375 L 960.6842560577393 333.09375 L 972.39991771698 157.46249999999998 L 984.1155793762207 60.5625 L 995.8312410354615 169.575 L 1007.5469026947022 375.4875 L 1019.2625643539429 42.39375000000001 L 1030.9782260131835 181.6875 L 1042.6938876724244 157.46249999999998 L 1054.4095493316652 109.01249999999999 L 1066.1252109909058 284.64375 L 1077.8408726501466 181.6875 L 1089.5565343093872 351.2625 L 1101.272195968628 169.575 L 1112.9878576278686 121.125 L 1124.7035192871094 345.20625 L 1136.4191809463503 133.2375 L 1148.1348426055908 169.575 L 1159.8505042648317 345.20625 L 1171.5661659240723 187.74374999999998 L 1183.281827583313 423.9375 L 1194.9974892425537 272.53125 L 1206.7131509017945 205.91250000000002 L 1218.428812561035 60.5625 L 1230.144474220276 54.50625000000002 L 1241.8601358795167 369.43125 L 1253.5757975387573 254.3625 L 1265.2914591979982 175.63125000000002 L 1277.0071208572388 193.8 L 1288.7227825164796 327.0375 L 1300.4384441757202 84.78750000000002 L 1312.154105834961 145.35000000000002 L 1323.8697674942018 181.6875 L 1335.5854291534424 218.02499999999998 L 1347.3010908126832 375.4875 L 1359.0167524719238 90.84375 L 1370.7324141311647 48.44999999999999 L 1382.4480757904053 272.53125 L 1394.163737449646 187.74374999999998 L 1405.8793991088867 169.575 L 1417.5950607681275 417.88125 L 1429.3107224273683 320.98125 L 1441.026384086609 236.19375 L 1452.7420457458497 205.91250000000002 L 1464.4577074050903 127.18124999999998 L 1476.1733690643312 345.20625 L 1487.8890307235718 375.4875 L 1499.6046923828126 327.0375 L 1511.3203540420534 290.7 L 1523.036015701294 339.15 L 1534.7516773605348 411.825 L 1546.4673390197754 387.6 L 1558.1830006790162 30.28125 L 1569.8986623382568 381.54375 L 1581.6143239974976 357.31875 L 1593.3299856567382 187.74374999999998 L 1605.045647315979 60.5625 L 1616.76130897522 145.35000000000002 L 1628.4769706344605 72.67500000000001 L 1640.1926322937013 72.67500000000001 L 1651.908293952942 345.20625 L 1663.6239556121827 66.61874999999998 L 1675.3396172714233 127.18124999999998 L 1687.0552789306641 102.95625000000001 L 1698.770940589905 163.51875 L 1710.4866022491456 42.39375000000001 L 1722.2022639083864 260.41875 L 1733.917925567627 72.67500000000001 L 1745.6335872268678 399.7125 L 1757.3492488861084 314.925 L 1769.0649105453492 290.7 L 1780.7805722045898 151.40625 L 1792.4962338638306 411.825 L 1804.2118955230715 109.01249999999999 L 1815.927557182312 345.20625 L 1827.6432188415529 278.5875 L 1839.3588805007935 90.84375 L 1851.0745421600343 187.74374999999998 L 1862.790203819275 260.41875 L 1874.5058654785157 60.5625 L 1886.2215271377565 48.44999999999999 L 1897.9371887969971 417.88125 L 1909.652850456238 30.28125 L 1921.3685121154786 399.7125 L 1933.0841737747194 193.8 L 1944.79983543396 157.46249999999998 L 1956.5154970932008 30.28125 L 1968.2311587524414 278.5875 L 1979.9468204116822 278.5875 L 1991.662482070923 121.125 L 2003.3781437301636 345.20625 L 2015.0938053894045 48.44999999999999 L 2026.809467048645 254.3625 L 2038.5251287078859 296.75625 L 2050.2407903671265 42.39375000000001 L 2061.956452026367 248.30625 L 2073.672113685608 260.41875 L 2085.3877753448487 66.61874999999998 L 2097.1034370040893 351.2625 L 2108.8190986633304 357.31875 L 2120.534760322571 90.84375 L 2132.2504219818115 205.91250000000002 L 2143.966083641052 327.0375 L 2155.681745300293 127.18124999999998 L 2167.397406959534 193.8 L 2179.1130686187744 169.575 L 2190.8287302780154 290.7 L 2202.544391937256 205.91250000000002 L 2214.2600535964966 218.02499999999998 L 2225.975715255737 169.575 L 2237.6913769149783 224.08125 L 2249.407038574219 199.85625 L 2261.1227002334595 193.8 L 2272.8383618927005 375.4875 L 2284.554023551941 199.85625 L 2296.2696852111817 236.19375 L 2307.9853468704223 423.9375 L 2319.7010085296633 278.5875 L 2331.416670188904 193.8 L 2343.1323318481445 381.54375" fill-rule="evenodd"/>
+              </g>
+              <g class="apexcharts-series apexcharts-series-collapsed" zIndex="1" seriesName="Ni" data:longestSeries="false" rel="2" data:realIndex="1">
+                <g class="apexcharts-series-markers-wrap apexcharts-hidden-element-shown" data:realIndex="1">
+                  <g class="apexcharts-series-markers">
+                    <path d="M0 0h0" fill="#ff5733" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="2" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-marker wprww3606 no-pointer-events" default-marker-size="0"/>
+                  </g>
+                </g>
+              </g>
+              <g class="apexcharts-series apexcharts-series-collapsed" zIndex="2" seriesName="NiE" data:longestSeries="false" rel="3" data:realIndex="2">
+                <g class="apexcharts-series-markers-wrap apexcharts-hidden-element-shown" data:realIndex="2">
+                  <g class="apexcharts-series-markers">
+                    <path d="M0 0h0" fill="#3498db" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="2" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-marker w3w00v63p no-pointer-events" default-marker-size="0"/>
+                  </g>
+                </g>
+              </g>
+              <g class="apexcharts-series apexcharts-series-collapsed" zIndex="3" seriesName="NA2" data:longestSeries="false" rel="4" data:realIndex="3">
+                <g class="apexcharts-series-markers-wrap apexcharts-hidden-element-shown" data:realIndex="3">
+                  <g class="apexcharts-series-markers">
+                    <path d="M0 0h0" fill="#2ecc71" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="2" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-marker wqi5yk3j1g no-pointer-events" default-marker-size="0"/>
+                  </g>
+                </g>
+              </g>
+              <g class="apexcharts-series apexcharts-series-collapsed" zIndex="4" seriesName="NA3" data:longestSeries="false" rel="5" data:realIndex="4">
+                <g class="apexcharts-series-markers-wrap apexcharts-hidden-element-shown" data:realIndex="4">
+                  <g class="apexcharts-series-markers">
+                    <path d="M0 0h0" fill="#9b59b6" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="2" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-marker w5wpr4mh9 no-pointer-events" default-marker-size="0"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <path stroke="#b6b6b6" stroke-dasharray="0" stroke-width="1" stroke-linecap="butt" class="apexcharts-ycrosshairs" d="M0 0h2343.132"/>
+            <path stroke="#b6b6b6" stroke-dasharray="0" stroke-width="0" stroke-linecap="butt" class="apexcharts-ycrosshairs-hidden" d="M0 0h2343.132"/>
+            <g class="apexcharts-xaxis">
+              <g class="apexcharts-xaxis-texts-g">
+                <text x="351.47" y="512.5" text-anchor="middle" dominant-baseline="auto" font-size="12" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-xaxis-label" transform="translate(0 -4)">
+                  <tspan>00:05:00</tspan>
+                </text>
+                <text x="702.94" y="512.5" text-anchor="middle" dominant-baseline="auto" font-size="12" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-xaxis-label" transform="translate(0 -4)">
+                  <tspan>00:10:00</tspan>
+                </text>
+                <text x="1054.41" y="512.5" text-anchor="middle" dominant-baseline="auto" font-size="12" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-xaxis-label" transform="translate(0 -4)">
+                  <tspan>00:15:00</tspan>
+                </text>
+                <text x="1405.879" y="512.5" text-anchor="middle" dominant-baseline="auto" font-size="12" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-xaxis-label" transform="translate(0 -4)">
+                  <tspan>00:20:00</tspan>
+                </text>
+                <text x="1757.349" y="512.5" text-anchor="middle" dominant-baseline="auto" font-size="12" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-xaxis-label" transform="translate(0 -4)">
+                  <tspan>00:25:00</tspan>
+                </text>
+                <text x="2108.819" y="512.5" text-anchor="middle" dominant-baseline="auto" font-size="12" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="gold" class="apexcharts-text apexcharts-xaxis-label" transform="translate(0 -4)">
+                  <tspan>00:30:00</tspan>
+                </text>
+              </g>
+            </g>
+            <g class="apexcharts-yaxis-annotations apexcharts-hidden-element-shown">
+              <path stroke="gold" stroke-dasharray="10" stroke-width="1" stroke-linecap="butt" d="M0 60.563h2343.132"/>
+              <rect width="55.138" height="16.5" x="2293.074" y="41.563" rx="2" ry="2" opacity="1" stroke-width="1" stroke="#c2c2c2" stroke-dasharray="0" fill="rgba(255,255,255,0.1)"/>
+              <text x="2343.132" y="54.563" text-anchor="end" dominant-baseline="auto" font-size="11" font-family="Helvetica,Arial,sans-serif" font-weight="400" fill="#fff" class="apexcharts-text apexcharts-yaxis-annotation-label" rel="0">
+                AVG(Cu)
+              </text>
+            </g>
+          </g>
+        </svg>
+        <div class="apexcharts-legend apexcharts-align-left apx-legend-position-top" style="right:0;position:absolute;left:0;top:4px;max-height:273px">
+          <div class="apexcharts-legend-series" rel="1" seriesname="Cu" data:collapsed="false">
+            <span class="apexcharts-legend-marker" rel="1" data:collapsed="false" style="height:16px;width:16px;left:0;top:0">
+              <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%">
+                <path d="M43 50a7 7 0 1014 0 7 7 0 10-14 0" fill="gold" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="1" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-legend-marker apexcharts-marker apexcharts-marker-circle"/>
+              </svg>
+            </span>
+            <span class="apexcharts-legend-text" rel="1" i="0" data:default-text="Cu" data:collapsed="false" color="gold" font-size="16" font-weight="600" font-family="Helvetica,Arial,sans-serif">
+              Cu
+            </span>
+          </div>
+          <div class="apexcharts-legend-series apexcharts-inactive-legend" rel="2" seriesname="Ni" data:collapsed="true">
+            <span class="apexcharts-legend-marker apexcharts-inactive-legend" rel="2" data:collapsed="true" style="height:16px;width:16px;left:0;top:0">
+              <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%">
+                <path d="M43 50a7 7 0 1014 0 7 7 0 10-14 0" fill="#ff5733" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="1" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-legend-marker apexcharts-marker apexcharts-marker-circle"/>
+              </svg>
+            </span>
+            <span class="apexcharts-legend-text" rel="2" i="1" data:default-text="Ni" data:collapsed="true" color="gold" font-size="16" font-weight="600" font-family="Helvetica,Arial,sans-serif">
+              Ni
+            </span>
+          </div>
+          <div class="apexcharts-legend-series apexcharts-inactive-legend" rel="3" seriesname="NiE" data:collapsed="true">
+            <span class="apexcharts-legend-marker apexcharts-inactive-legend" rel="3" data:collapsed="true" style="height:16px;width:16px;left:0;top:0">
+              <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%">
+                <path d="M43 50a7 7 0 1014 0 7 7 0 10-14 0" fill="#3498db" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="1" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-legend-marker apexcharts-marker apexcharts-marker-circle"/>
+              </svg>
+            </span>
+            <span class="apexcharts-legend-text" rel="3" i="2" data:default-text="NiE" data:collapsed="true" color="gold" font-size="16" font-weight="600" font-family="Helvetica,Arial,sans-serif">
+              NiE
+            </span>
+          </div>
+          <div class="apexcharts-legend-series apexcharts-inactive-legend" rel="4" seriesname="NA2" data:collapsed="true">
+            <span class="apexcharts-legend-marker apexcharts-inactive-legend" rel="4" data:collapsed="true" style="height:16px;width:16px;left:0;top:0">
+              <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%">
+                <path d="M43 50a7 7 0 1014 0 7 7 0 10-14 0" fill="#2ecc71" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="1" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-legend-marker apexcharts-marker apexcharts-marker-circle"/>
+              </svg>
+            </span>
+            <span class="apexcharts-legend-text" rel="4" i="3" data:default-text="NA2" data:collapsed="true" color="gold" font-size="16" font-weight="600" font-family="Helvetica,Arial,sans-serif">
+              NA2
+            </span>
+          </div>
+          <div class="apexcharts-legend-series apexcharts-inactive-legend" rel="5" seriesname="NA3" data:collapsed="true">
+            <span class="apexcharts-legend-marker apexcharts-inactive-legend" rel="5" data:collapsed="true" style="height:16px;width:16px;left:0;top:0">
+              <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%">
+                <path d="M43 50a7 7 0 1014 0 7 7 0 10-14 0" fill="#9b59b6" fill-opacity="1" stroke="#fff" stroke-opacity=".9" stroke-linecap="butt" stroke-width="1" stroke-dasharray="0" cx="0" cy="0" shape="circle" class="apexcharts-legend-marker apexcharts-marker apexcharts-marker-circle"/>
+              </svg>
+            </span>
+            <span class="apexcharts-legend-text" rel="5" i="4" data:default-text="NA3" data:collapsed="true" color="gold" font-size="16" font-weight="600" font-family="Helvetica,Arial,sans-serif">
+              NA3
+            </span>
+          </div>
+        </div>
+        <div class="apexcharts-tooltip apexcharts-theme-light" style="left:2290.43px;top:196.8px">
+          <div class="apexcharts-tooltip-title" font-family="Helvetica,Arial,sans-serif" font-size="12">
+            19 Mar
+          </div>
+          <div class="apexcharts-tooltip-series-group apexcharts-tooltip-series-group-0 apexcharts-active" style="order:1" display="flex">
+            <span class="apexcharts-tooltip-marker" shape="circle" color="gold"/>
+            <div class="apexcharts-tooltip-text" font-family="Helvetica,Arial,sans-serif" font-size="12">
+              <div class="apexcharts-tooltip-y-group">
+                <span class="apexcharts-tooltip-text-y-label">
+                  Cu:
+                </span>
+                <span class="apexcharts-tooltip-text-y-value">
+                  48
+                </span>
+              </div>
+              <div class="apexcharts-tooltip-goals-group">
+                <span class="apexcharts-tooltip-text-goals-label"/>
+                <span class="apexcharts-tooltip-text-goals-value"/>
+              </div>
+              <div class="apexcharts-tooltip-z-group">
+                <span class="apexcharts-tooltip-text-z-label"/>
+                <span class="apexcharts-tooltip-text-z-value"/>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="apexcharts-xaxistooltip apexcharts-xaxistooltip-bottom apexcharts-theme-light" style="left:2348.75px;top:516.5px">
+          <div class="apexcharts-xaxistooltip-text" style="min-width:35.5722px" font-family="Helvetica,Arial,sans-serif" font-size="12">
+            19 Mar
+          </div>
+        </div>
+        <div class="apexcharts-yaxistooltip apexcharts-yaxistooltip-0 apexcharts-yaxistooltip-left apexcharts-theme-light">
+          <div class="apexcharts-yaxistooltip-text"/>
+        </div>
+        <div class="apexcharts-toolbar" style="top:0;right:3px">
+          <div class="apexcharts-zoomin-icon" title="Zoom In">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+              <path d="M0 0h24v24H0z" fill="none"/>
+              <path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+            </svg>
+          </div>
+          <div class="apexcharts-zoomout-icon" title="Zoom Out">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+              <path d="M0 0h24v24H0z" fill="none"/>
+              <path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+            </svg>
+          </div>
+          <div class="apexcharts-zoom-icon" title="Selection Zoom">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="#000" height="24" width="24">
+              <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+              <path d="M0 0h24v24H0V0z" fill="none"/>
+              <path d="M12 10h-2v2H9v-2H7V9h2V7h1v2h2v1z"/>
+            </svg>
+          </div>
+          <div class="apexcharts-pan-icon apexcharts-selected" title="Panning">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="#000" height="24" width="24">
+              <defs>
+                <path d="M0 0h24v24H0z" id="uhALXdtYCwiLb"/>
+              </defs>
+              <clipPath id="uhALXdtYCwiLc">
+                <use overflow="visible" xlink:href="#uhALXdtYCwiLb"/>
+              </clipPath>
+              <path clip-path="url(#uhALXdtYCwiLc)" d="M23 5.5V20c0 2.2-1.8 4-4 4h-7.3c-1.08 0-2.1-.43-2.85-1.19L1 14.83s1.26-1.23 1.3-1.25c.22-.19.49-.29.79-.29.22 0 .42.06.6.16.04.01 4.31 2.46 4.31 2.46V4c0-.83.67-1.5 1.5-1.5S11 3.17 11 4v7h1V1.5c0-.83.67-1.5 1.5-1.5S15 .67 15 1.5V11h1V2.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5V11h1V5.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5z"/>
+            </svg>
+          </div>
+          <div class="apexcharts-reset-icon" title="Reset Zoom">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="#000" height="24" width="24">
+              <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
+              <path d="M0 0h24v24H0z" fill="none"/>
+            </svg>
+          </div>
+          <div class="apexcharts-menu-icon" title="Menu">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+              <path fill="none" d="M0 0h24v24H0V0z"/>
+              <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+            </svg>
+          </div>
+          <div class="apexcharts-menu apexcharts-menu-open">
+            <div class="apexcharts-menu-item exportSVG" title="Download SVG">
+              Download SVG
+            </div>
+            <div class="apexcharts-menu-item exportPNG" title="Download PNG">
+              Download PNG
+            </div>
+            <div class="apexcharts-menu-item exportCSV" title="Download CSV">
+              Download CSV
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="A chart." overflow="hidden" viewBox="0 0 666.667 433.333">
+  <path fill="#fff" d="M0 0h666.667v433.333H0z"/>
+  <text text-anchor="start" x="127" y="60.05" font-family="Arial" font-size="13" font-weight="bold" stroke="none" stroke-width="0" fill="#000">
+    Graph Title
+  </text>
+  <path fill="none" d="M127 49h412v13H127zm425 34h101.667v55H552z"/>
+  <path fill="none" d="M552 83h101.667v13H552z"/>
+  <text text-anchor="start" x="583" y="94.05" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#222">
+    Line1
+  </text>
+  <path d="M552 89.5h26" stroke="#36c" stroke-width="3" fill="none"/>
+  <path fill="none" d="M552 104h101.667v13H552z"/>
+  <text text-anchor="start" x="583" y="115.05" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#222">
+    Line2
+  </text>
+  <path d="M552 110.5h26" stroke="#dc3912" stroke-width="3" fill="none"/>
+  <path fill="none" d="M552 125h101.667v13H552z"/>
+  <text text-anchor="start" x="583" y="136.05" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#222">
+    Line3
+  </text>
+  <path d="M552 131.5h26" stroke="#f90" stroke-width="3" fill="none"/>
+  <path fill="none" d="M127 83h412v268H127z"/>
+  <g clip-path="url(https://www.rapidtables.com/tools/line-graph.html#_ABSTRACT_RENDERER_ID_1140)">
+    <path fill="#ccc" d="M127 350h412v1H127zm0-53h412v1H127zm0-54h412v1H127zm0-53h412v1H127zm0-54h412v1H127zm0-53h412v1H127z"/>
+    <path fill="#ebebeb" d="M127 323h412v1H127zm0-53h412v1H127zm0-53h412v1H127zm0-54h412v1H127zm0-53h412v1H127z"/>
+    <path fill="#333" d="M127 350h412v1H127z"/>
+    <g stroke-width="3" fill="none">
+      <path d="M131.53 237.1l8.058-92.305 8.06 35.039 8.058 21.36 8.059 70.912 8.059.003 8.058 15.686 8.06-129.458L196 200.801l8.059-17.133 8.059 110.135 8.058-152.084 8.06 22.023 8.058 99.342 8.059 4.889 8.059-.254 8.059-19.36 8.058-35.324 8.06 14.867 8.058 22.542 8.059-51.362 8.059 75.67 8.059-24.454 8.058-11.89 8.06-14.37L333 171.314l8.059 93.8 8.059-50.394 8.058-12.525 8.06 87.464 8.058-89.889 8.059 70.013 8.059 16.896 8.059-141.59 8.058-2.683 8.06 25.188 8.058 80.706 8.059 33.154 8.059-93.968 8.059 39.102 8.058 50.962 8.06-59.778 8.058 73.82 8.059-140.165 8.059 104.216 8.058-64.678 8.06 56.198 8.058-33.378 8.059-4.269 8.059 57.971 8.059-125.714" stroke="#36c"/>
+      <path d="M131.53 181.884l8.058 111.718 8.06-15.518 8.058-147.57 8.059 58.5 8.059 119.594 8.058-18.477 8.06-112.548L196 309.435l8.059-31.188 8.059-77.68 8.058-28.669 8.06 7.997 8.058 85.646 8.059-97.704 8.059 95.103 8.059-17.651 8.058-84.324 8.06 19.397 8.058-39.97 8.059 38.37 8.059 17.885 8.059 95.044 8.058-54.877 8.06 20.53 8.058 4.248 8.059-145.988 8.059 116.13 8.058-99.915 8.06 52.247 8.058-32.777 8.059 58.507 8.059-14.872 8.059 16.899 8.058 59.53 8.06-105.574 8.058 88.446 8.059 51.355 8.059-124.385 8.059 93.79 8.058-152.86 8.06-2.7 8.058 7.823 8.059 109.077 8.059 71.03 8.058-182.801 8.06 100.152 8.058-107.828 8.059.608 8.059 22.148 8.059 111.852" stroke="#dc3912"/>
+      <path d="M131.53 299.02l8.058-192.104 8.06 95.471 8.058-77.184 8.059 121.69 8.059-138.287 8.058 121.67 8.06 90.92L196 106.239l8.059 195.625 8.059-54.793L220.176 95.5l8.06-.13 8.058 90.635 8.059-14.034 8.059 44.069 8.059 37.302 8.058-8.52 8.06-82.628 8.058-19.19 8.059-9.42 8.059.47 8.059 167.829 8.058-96.892 8.06 104.98L333 191.746l8.059 25.953 8.059-107.214 8.058 128.99 8.06 56.193 8.058-6.23 8.059-148.63 8.059 34.432 8.059 124.26 8.058 4.087 8.06-148.23 8.058 150.956 8.059-180.006 8.059 27.781 8.059 150.164 8.058-.838 8.06-216.706L470 233.864l8.059.87 8.059-106.25 8.058-32.307 8.06-9.313 8.058 55.9 8.059 90.622 8.059 70.349 8.059-166.683" stroke="#f90"/>
+    </g>
+  </g>
+  <text text-anchor="end" x="133.804" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 133.804 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/1/2023
+  </text>
+  <text text-anchor="end" x="166.04" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 166.04 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/5/2023
+  </text>
+  <text text-anchor="end" x="198.275" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 198.275 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/9/2023
+  </text>
+  <text text-anchor="end" x="230.51" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 230.51 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/13/2023
+  </text>
+  <text text-anchor="end" x="262.746" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 262.746 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/17/2023
+  </text>
+  <text text-anchor="end" x="294.981" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 294.98 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/21/2023
+  </text>
+  <text text-anchor="end" x="327.216" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 327.216 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/25/2023
+  </text>
+  <text text-anchor="end" x="359.451" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 359.451 369.44)" stroke="none" stroke-width="0" fill="#222">
+    1/29/2023
+  </text>
+  <text text-anchor="end" x="391.687" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 391.687 369.44)" stroke="none" stroke-width="0" fill="#222">
+    2/2/2023
+  </text>
+  <text text-anchor="end" x="423.922" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 423.922 369.44)" stroke="none" stroke-width="0" fill="#222">
+    2/6/2023
+  </text>
+  <text text-anchor="end" x="456.157" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 456.157 369.44)" stroke="none" stroke-width="0" fill="#222">
+    2/10/2023
+  </text>
+  <text text-anchor="end" x="488.393" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 488.393 369.44)" stroke="none" stroke-width="0" fill="#222">
+    2/14/2023
+  </text>
+  <text text-anchor="end" x="520.628" y="369.44" font-family="Arial" font-size="13" transform="rotate(-30 520.628 369.44)" stroke="none" stroke-width="0" fill="#222">
+    2/18/2023
+  </text>
+  <text text-anchor="end" x="114" y="355.05" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#444">
+    0
+  </text>
+  <text text-anchor="end" x="114" y="301.65" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#444">
+    200
+  </text>
+  <text text-anchor="end" x="114" y="248.25" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#444">
+    400
+  </text>
+  <text text-anchor="end" x="114" y="194.85" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#444">
+    600
+  </text>
+  <text text-anchor="end" x="114" y="141.45" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#444">
+    800
+  </text>
+  <text text-anchor="end" x="114" y="88.05" font-family="Arial" font-size="13" stroke="none" stroke-width="0" fill="#444">
+    1,000
+  </text>
+  <text text-anchor="middle" x="333" y="421.217" font-family="Arial" font-size="13" font-style="italic" stroke="none" stroke-width="0" fill="#222">
+    hLabel
+  </text>
+  <path fill="none" d="M127 410.167h412v13H127z"/>
+  <text text-anchor="middle" x="45.05" y="217" font-family="Arial" font-size="13" font-style="italic" transform="rotate(-90 45.05 217)" stroke="none" stroke-width="0" fill="#222">
+    vLabel
+  </text>
+  <path d="M34 351V83h13v268z" fill="none"/>
+</svg>
